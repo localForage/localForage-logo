@@ -1,0 +1,54 @@
+.localForage-Extension-logo {
+    position: relative;
+    height: 20em;
+    width: 20em;
+    background-color: #f3df49;
+    color: #2e2e2c;
+    overflow: hidden;
+
+    vertical-align: bottom;
+    display: inline-block;
+    font-size: 39%;
+}
+
+.localForage-Extension-logo:before {
+    content: "LF";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 0.1em;
+    margin-bottom: 0.1em;
+    font-size: 8em;
+    font-family: Arial, Helvetica;
+    font-weight: bold;
+    box-shadow: -130.2px 1px 0 -34.9px #707070;
+}
+.localForage-Extension-logo:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 10%;
+    width: 21%;
+    margin-bottom: 28%;
+    margin-left: 9%;
+    border-radius: 50%;
+    /*background-color: #E2007A;*/
+    background-color: #199AD5;
+    box-shadow: 0 19px 0 #92137F,
+                0 37px 0 #008232;
+}
+
+.localForage-Extension-plusplus {
+    position: absolute;
+    bottom: 0;
+    display: block;
+    width: 1em;
+    font-size: 2.25em;
+    line-height: 0.9;
+    word-break: break-all;
+    margin-bottom: 1.4em;
+    margin-left: 31%;
+}
