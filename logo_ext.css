@@ -22,7 +22,7 @@
     font-size: 8em;
     font-family: Arial, Helvetica;
     font-weight: bold;
-    box-shadow: -130.2px 1px 0 -34.9px #707070;
+    box-shadow: -1.304em 0.02em 0 -0.350em #707070;
 }
 
 .localForage-Extension-logo:after {
@@ -38,10 +38,11 @@
     border-radius: 50%;
     /*background-color: #E2007A;*/
     background-color: #199AD5;
-    box-shadow: 0 19px 0 #92137F,
-                0 37px 0 #008232;
+    box-shadow: 0 0.679em 0 #92137F,
+                0 1.321em 0 #008232;
 
     font-size: 2.25em;
     color: transparent;
-    text-shadow: 1.95em 0 0 #2e2e2c, 1.95em 0.92em 0 #2e2e2c;
+    text-shadow: 1.95em 0 0 #2e2e2c,
+                 1.95em 0.92em 0 #2e2e2c;
 }
