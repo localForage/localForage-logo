@@ -24,8 +24,9 @@
     font-weight: bold;
     box-shadow: -130.2px 1px 0 -34.9px #707070;
 }
+
 .localForage-Extension-logo:after {
-    content: "";
+    content: "+";
     display: block;
     position: absolute;
     left: 0;
@@ -39,16 +40,8 @@
     background-color: #199AD5;
     box-shadow: 0 19px 0 #92137F,
                 0 37px 0 #008232;
-}
 
-.localForage-Extension-plusplus {
-    position: absolute;
-    bottom: 0;
-    display: block;
-    width: 1em;
     font-size: 2.25em;
-    line-height: 0.9;
-    word-break: break-all;
-    margin-bottom: 1.4em;
-    margin-left: 31%;
+    color: transparent;
+    text-shadow: 1.95em 0 0 #2e2e2c, 1.95em 0.92em 0 #2e2e2c;
 }
