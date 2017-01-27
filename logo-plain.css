@@ -1,4 +1,4 @@
-.localForage-Extension-logo {
+.localForage-logo {
     position: relative;
     height: 20em;
     width: 20em;
@@ -11,7 +11,7 @@
     font-size: 39%;
 }
 
-.localForage-Extension-logo:before {
+.localForage-logo:before {
     content: "LF";
     display: block;
     position: absolute;
@@ -24,7 +24,7 @@
     font-weight: bold;
     box-shadow: -120.2px 1px 0 -34.9px #707070;
 }
-.localForage-Extension-logo:after {
+.localForage-logo:after {
     content: "";
     display: block;
     position: absolute;
