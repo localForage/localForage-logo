@@ -3,7 +3,7 @@ localForage-logo
 
 A simple logo suggestion for localforage using a single empty `<div>`.
 
-![basic localForage logo](https://github.com/localForage/localForage-logo/blob/master/logo_ext.png?raw=true)
+![basic localForage logo](https://github.com/localForage/localForage-logo/blob/master/logo.png?raw=true)
 
 [basic](https://htmlpreview.github.io/?https://github.com/localForage/localForage-logo/blob/master/logo.html)
 
